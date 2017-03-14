@@ -1,10 +1,8 @@
 Our implementation of mutual-exclusivity and transformation/stability loss functions are based on the 'SparseConvNet':
 
-# SparseConvNet
-# A spatially-sparse convolutional neural network
-# [Ben Graham](http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/graham/), [University of Warwick](http://www2.warwick.ac.uk/fac/sci/statistics/), 2013-2015, GPLv3
-# [Wiki](https://github.com/btgraham/SparseConvNet/wiki)
-# [Dependencies and Installation](https://github.com/btgraham/SparseConvNet/wiki/Installation)
+SparseConvNet: A spatially-sparse convolutional neural network
+https://github.com/btgraham/SparseConvNet/wiki
+https://github.com/btgraham/SparseConvNet/wiki/Installation
 
 The Installation process of our code is exactly the same as 'SparseConvNet'.
 
