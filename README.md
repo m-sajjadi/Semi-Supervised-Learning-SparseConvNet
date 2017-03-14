@@ -1,6 +1,6 @@
 This is the implementation of our NIPS 2016 paper:
 
-Sajjadi, Mehdi, Mehran Javanmardi, and Tolga Tasdizen. *Regularization With Stochastic Transformations and Perturbations for Deep Semi-Supervised Learning.* Advances in Neural Information Processing Systems. 2016.
+M. Sajjadi, M. Javanmardi, and T. Tasdizen. *Regularization With Stochastic Transformations and Perturbations for Deep Semi-Supervised Learning.* Advances in Neural Information Processing Systems. 2016.
 
 This implementation of *mutual-exclusivity* and *transformation/stability* loss functions are based on the 'SparseConvNet':
 
