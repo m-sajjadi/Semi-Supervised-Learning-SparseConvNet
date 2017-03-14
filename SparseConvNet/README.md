@@ -9,11 +9,13 @@ The Installation process of our code is exactly the same as 'SparseConvNet'.
 Here we have provided the code for experiments on CIFAR10, CIFAR100, MNIST, SVHN and NORB. 
 For these datasets, first you need to prepare the datasets according to 'README.md' files in the 'Data' folder. Then you need to run the following commands:
 
+```
 make mnist
 make cifar10
 make cifar100
 make svhn
 make norb
+```
 
 Hyper-parameters of these experiments can be modified in 'mnist.cpp', 'cifar10.cpp', 'cifar100.cpp', 'svhn.cpp' and 'norb.cpp'. Improtant hyper-parameters can be set in the begining of each file.
 
